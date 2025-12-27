@@ -33,7 +33,7 @@ Bu projenin temel amaçları:
 
 ---
 
-🖥 Uygulama Kullanımı
+🖥** Uygulama Kullanımı**
 
 1.Uygulama çalıştırılır
 
@@ -58,10 +58,13 @@ bilgilerini girer
 
   ---
   🖼 Ekran Görüntüleri
+  
+  
+  
   <img width="788" height="481" alt="Ekran görüntüsü 2025-12-27 205257" src="https://github.com/user-attachments/assets/fe52a557-bbcf-4291-bd50-89a314ce9891" />
 
   ---
-  📌 Sınıflandırma Türü
+  📌** Sınıflandırma Türü**
 
 Bu proje Binary Classification (İkili Sınıflandırma) örneğidir.
 
