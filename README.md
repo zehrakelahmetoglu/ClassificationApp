@@ -8,7 +8,7 @@ kredi alıp alamayacağını tahmin eder.
 
 Bu çalışma, makine öğrenmesinde classification konusunu pratik bir masaüstü uygulaması üzerinden göstermek amacıyla hazırlanmıştır.
 
-🎯 PROJENİN AMACI
+🎯*** PROJENİN AMACI***
 
 Bu projenin temel amaçları:
 
