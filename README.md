@@ -1,4 +1,4 @@
-🧠 WinForms + ML.NET Binary Classification Uygulaması
+🧠 **WinForms + ML.NET Binary Classification Uygulaması**
 
 Bu proje, C# WinForms ve ML.NET kullanılarak geliştirilmiş bir
 ikili sınıflandırma (Binary Classification) uygulamasıdır.
